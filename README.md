@@ -1,7 +1,7 @@
 
 # framer-keyboardEvents
 
-Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact.
+Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 100+ keys with minimal performance impact. Also supports Framer's auto-refresh.
 <br />
 <br />
 ### [Example project on framer.cloud](https://framer.cloud/lHwxp)
