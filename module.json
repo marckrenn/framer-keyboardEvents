@@ -1,0 +1,9 @@
+{
+    "name": "KeyboardEvents",
+    "description": "Hassle-free keyboard bindings for Framer. No need to look up keyCodes.",
+    "author": "Marc Krenn",
+
+    "require": "{keyCodes} = require 'keyboardEvents'",
+    "install": "keyboardEvents.coffee",
+    "example": "example.coffee"
+}
