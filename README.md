@@ -24,7 +24,8 @@ Hassle-free keyboard bindings for Framer: No need to look up keyCodes; supports 
 | **4** | Save (*CMD+S*) your project to get Framer to load the module                                                                                 |
 
 <br />
-## Usage:
+
+## Usage
 
 ```coffee
 
